@@ -1,1 +1,1 @@
-# CPEN-21A-ECE-2-2
+# CPEN ECE 2-2
